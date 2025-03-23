@@ -9,7 +9,7 @@ Repository Structure
 /models → Trained model and scaler.
 /data → Dataset (`kubernetes_final_dataset.csv`).
 /docs → Documentation.
-/presentation → Presentation slides and demo video link.
+/presentation → Presentation slides.
 
 Requirements
 Before running the project, ensure you have the following installed:
