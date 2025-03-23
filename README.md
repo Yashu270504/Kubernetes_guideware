@@ -1,4 +1,4 @@
-# Kubernetes_guideware
+
 # Kubernetes Failure Prediction
 
 Overview
@@ -31,7 +31,6 @@ Model Performance
 The model achieves an accuracy of 32.4% due to the complexity of the dataset. Future improvements can be made by fine-tuning hyperparameters and feature engineering.
 
 Submission Details
-  GitHub Repository: [GitHub Link]
   Dataset Source:`data/kubernetes_final_dataset.csv`
   Trained Model:`models/kubernetes_failure_prediction_model.pkl`
   
