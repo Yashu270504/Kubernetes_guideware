@@ -32,5 +32,5 @@ The model achieves an accuracy of 32.4% due to the complexity of the dataset. Fu
 
 Submission Details
   Dataset Source:`data/kubernetes_final_dataset.csv`
-  Trained Model:`models/kubernetes_failure_prediction_model.pkl`
+  Trained Model:`models/https://drive.google.com/drive/folders/1jSND2keAULeS02ZfZA1v3btssAtsn529?usp=sharing`
   
